@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1561736778-92e52a7769ef?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxSZWFjdCUyME5hdGl2ZXxlbnwwfHx8fDE2NDA0NzA0ODY&ixlib=rb-1.2.1&q=85
-coverY: 0
----
-
 # React Native Resources
 
 {% content-ref url="react-native-resources/libraries-and-components.md" %}
