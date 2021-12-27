@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Resources](README.md)
-  * [📦 Libraries & Components](resources/libraries-and-components.md)
-  * [🧰 React - React Native Tools](resources/react-react-native-tools.md)
-  * [📑 Tutorials](resources/tutorials.md)
-  * [⚙ API](resources/api.md)
+* [📦 Libraries & Components](README.md)
+* [🧰 React - React Native Tools](react-react-native-tools.md)
+* [📑 Tutorials](tutorials.md)
+* [⚙ API](api.md)
