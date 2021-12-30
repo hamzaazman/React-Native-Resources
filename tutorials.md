@@ -21,6 +21,9 @@
 * [Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course](https://www.youtube.com/watch?v=1hPgQWbWmEk\&t=10942s)
 * [🔴 React Native E-learning App UI (Part 1) - Speed Code | DeCode](https://www.youtube.com/watch?v=u2edJaGtaI0\&t=203s)
 * [LCRN EP8 - Food Delivery App - React Native UI](https://www.youtube.com/watch?v=diUDjNwZ8Lg)
+* [Türkçe Sözlük Mobil Uygulaması](https://www.youtube.com/playlist?list=PLadt0EaV4m3CWiofBOml0r95OmhiM6I6v)
+* [Redux Dersleri](https://www.youtube.com/playlist?list=PLiYPP1v1hM96maVc-jKCq0Kop4YY5m92S)
+* [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
 
 #### Blog
 
