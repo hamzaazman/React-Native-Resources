@@ -24,6 +24,7 @@
 * [Türkçe Sözlük Mobil Uygulaması](https://www.youtube.com/playlist?list=PLadt0EaV4m3CWiofBOml0r95OmhiM6I6v)
 * [Redux Dersleri](https://www.youtube.com/playlist?list=PLiYPP1v1hM96maVc-jKCq0Kop4YY5m92S)
 * [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
+* [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
 
 #### Blog
 
