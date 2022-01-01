@@ -25,6 +25,7 @@
 * [Redux Dersleri](https://www.youtube.com/playlist?list=PLiYPP1v1hM96maVc-jKCq0Kop4YY5m92S)
 * [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
 * [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
+* [React Native Instagram UI Clone (Bölüm 2)](https://youtu.be/I\_NuuuBnqTk)
 
 #### Blog
 
