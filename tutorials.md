@@ -31,3 +31,4 @@
 
 * [https://ysfzrn.gitbook.io/react-native-turkce/](https://ysfzrn.gitbook.io/react-native-turkce/)
 * [https://blog.logrocket.com/top-react-native-tab-navigation-components/](https://blog.logrocket.com/top-react-native-tab-navigation-components/)
+* [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.dev/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
