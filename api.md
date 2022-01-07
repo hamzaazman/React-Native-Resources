@@ -23,6 +23,7 @@ description: Free useful services to generate test and fake data
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data           | oAuth |
 | [HackerNews](https://github.com/HackerNews/API)  | Social news for technology            | No    |
 | [Hashnode](https://api.hashnode.com)             | Built blogging platform for developer | No    |
+| [Covid19](https://covid19-api.com/docs)          | Corona virus statistics of countries  | No    |
 
 #### News
 
