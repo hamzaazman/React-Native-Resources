@@ -1,12 +1,22 @@
 # 📑 Tutorials
 
-#### Udemy
+
+
+<details>
+
+<summary>Udemy</summary>
 
 * [React Native - The Practical Guide 2021](https://click.linksynergy.com/deeplink?id=jU79Zysihs4\&mid=39197\&murl=https://www.udemy.com/course/react-native-the-practical-guide)
 * [React Native - The Practical Guide \[2022 Edition\]](https://www.udemy.com/course/react-native-the-practical-guide/?LSNPUBID=jU79Zysihs4\&ranEAID=jU79Zysihs4\&ranMID=39197\&ranSiteID=jU79Zysihs4-gUk7sJWDjjLr9KvEAz2uAA)
 * [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/?LSNPUBID=jU79Zysihs4\&ranEAID=jU79Zysihs4\&ranMID=39197\&ranSiteID=jU79Zysihs4-8CHw6VJe\_sqzSayjp4HaIQ)
 
-#### Youtube
+</details>
+
+<details>
+
+<summary>YouTube</summary>
+
+
 
 * [React Native Tutorial for Beginners - Build a React Native App \[2020\]](https://youtu.be/0-S5a0eXPoc)
 * [Yeni Başlayanlar için React Native Eğitimi](https://www.youtube.com/playlist?list=PLiYPP1v1hM95Kc9SPR0uBsw57qcFG\_aeO)
@@ -27,8 +37,15 @@
 * [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
 * [React Native Instagram UI Clone (Bölüm 2)](https://youtu.be/I\_NuuuBnqTk)
 
-#### Blog
+</details>
+
+<details>
+
+<summary>Blog</summary>
 
 * [https://ysfzrn.gitbook.io/react-native-turkce/](https://ysfzrn.gitbook.io/react-native-turkce/)
 * [https://blog.logrocket.com/top-react-native-tab-navigation-components/](https://blog.logrocket.com/top-react-native-tab-navigation-components/)
 * [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.dev/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
+
+</details>
+
