@@ -16,8 +16,6 @@
 
 <summary>YouTube</summary>
 
-
-
 * [React Native Tutorial for Beginners - Build a React Native App \[2020\]](https://youtu.be/0-S5a0eXPoc)
 * [Yeni Başlayanlar için React Native Eğitimi](https://www.youtube.com/playlist?list=PLiYPP1v1hM95Kc9SPR0uBsw57qcFG\_aeO)
 * [React Native Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
@@ -36,6 +34,8 @@
 * [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
 * [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
 * [React Native Instagram UI Clone (Bölüm 2)](https://youtu.be/I\_NuuuBnqTk)
+* [Build a TikTok Clone in React Native and AWS Backend \[Tutorial for Beginners\]](https://youtu.be/7okW52MQgSE)
+* [🔴 Let's Build the Netflix App in React Native & AWS Amplify (Tutorial for Beginners)](https://youtu.be/CNaLOa-6X7U)
 
 </details>
 
