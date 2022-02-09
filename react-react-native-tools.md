@@ -8,3 +8,4 @@
 | ****[**react-native-rename**](https://github.com/junedomingo/react-native-rename)****  | Rename react-native app with just one command                                                                                                  | ⭐2038  |
 | ****[**Storybook**](https://storybook.js.org)****                                      | Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation. | ⭐67684 |
 | [**generact**](https://github.com/diegohaz/generact)****                               | Generate React components by replicating your own                                                                                              | ⭐1470  |
+| [**Jest**](https://jestjs.io)****                                                      | Jest is a delightful JavaScript Testing Framework with a focus on simplicity.                                                                  | ⭐37889 |
