@@ -25,6 +25,9 @@
 * [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
 * [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
 * [React Native Instagram UI Clone (Bölüm 2)](https://youtu.be/I\_NuuuBnqTk)
+* [Yeni başlayanlar için React Native Kripto Para Uygulaması Kodlama](https://youtu.be/0ERnR2AO40M)
+* [Yeni başlayanlar için Redux Toolkit](https://youtu.be/Ya0xwXgJqmA)
+* [React Navigation + REST API | React Native Authentication Flow](https://youtu.be/oePpinyjaDA)
 
 #### EN
 
@@ -41,6 +44,7 @@
 * [🔴](https://youtu.be/CNaLOa-6X7U)[ Let's Build the Netflix App in React Native & AWS Amplify (Tutorial for Beginners)](https://youtu.be/CNaLOa-6X7U)
 * [🔴 React Native E-learning App UI (Part 1) - Speed Code | DeCode](https://www.youtube.com/watch?v=u2edJaGtaI0\&t=203s)
 * [LCRN EP8 - Food Delivery App - React Native UI](https://www.youtube.com/watch?v=diUDjNwZ8Lg)
+* [Create A React Native TypeScript Project | A Beautiful Wallet App Design](https://youtu.be/68l7wyHw97Y)
 
 </details>
 
