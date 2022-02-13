@@ -16,26 +16,31 @@
 
 <summary>YouTube</summary>
 
-* [React Native Tutorial for Beginners - Build a React Native App \[2020\]](https://youtu.be/0-S5a0eXPoc)
+#### TR
+
 * [Yeni Başlayanlar için React Native Eğitimi](https://www.youtube.com/playlist?list=PLiYPP1v1hM95Kc9SPR0uBsw57qcFG\_aeO)
-* [React Native Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
-* [The Complete React Native Course 2021 : from Zero to Hero](https://youtu.be/ANdSdIlgsEw?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
-* [🔴Build your first App in React Native in under 2 hours \[ Tutorial for beginners \]](https://www.youtube.com/watch?v=iQ\_0Fd\_N3Mk)
-* [🔴 Build the Airbnb app in React Native \[ Tutorial for beginners \]](https://www.youtube.com/watch?v=ZxkmTsEYfg8\&t=7s)
-* [🔴 React Native Furniture App UI - Speed Code | DeCode](https://www.youtube.com/watch?v=rHV\_QWzZxRQ)
 * [Tek Video | Yeni başlayanlar için React Native - React Native kullanarak bir uygulama oluşturma](https://www.youtube.com/watch?v=dx7b2ZdXhSc\&t=6718s)
-* [Full React Native Project Tutorial for beginners.](https://www.youtube.com/watch?v=npe3Wf4tpSg)
-* [🔴 Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API](https://www.youtube.com/watch?v=jmvbhuJXFow\&t=770s)
-* [Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course](https://www.youtube.com/watch?v=1hPgQWbWmEk\&t=10942s)
-* [🔴 React Native E-learning App UI (Part 1) - Speed Code | DeCode](https://www.youtube.com/watch?v=u2edJaGtaI0\&t=203s)
-* [LCRN EP8 - Food Delivery App - React Native UI](https://www.youtube.com/watch?v=diUDjNwZ8Lg)
 * [Türkçe Sözlük Mobil Uygulaması](https://www.youtube.com/playlist?list=PLadt0EaV4m3CWiofBOml0r95OmhiM6I6v)
 * [Redux Dersleri](https://www.youtube.com/playlist?list=PLiYPP1v1hM96maVc-jKCq0Kop4YY5m92S)
 * [Yeni başlayanlar için React Native'de Sıfırdan Gerçek Zamanlı Sohbet Uygulaması oluşturmak](https://youtu.be/uW6JFJnHqm0)
 * [React Native Instagram UI Clone (Bölüm 1)](https://youtu.be/xVGNDxx-TG4)
 * [React Native Instagram UI Clone (Bölüm 2)](https://youtu.be/I\_NuuuBnqTk)
+
+#### EN
+
+* [React Native Tutorial for Beginners - Build a React Native App \[2020\]](https://youtu.be/0-S5a0eXPoc)
+* [React Native Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+* [The Complete React Native Course 2021 : from Zero to Hero](https://youtu.be/ANdSdIlgsEw?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ)
+* [Full React Native Project Tutorial for beginners.](https://www.youtube.com/watch?v=npe3Wf4tpSg)
+* [🔴Build your first App in React Native in under 2 hours \[ Tutorial for beginners \]](https://www.youtube.com/watch?v=iQ\_0Fd\_N3Mk)
+* [🔴 Build the Airbnb app in React Native \[ Tutorial for beginners \]](https://www.youtube.com/watch?v=ZxkmTsEYfg8\&t=7s)
+* [🔴 React Native Furniture App UI - Speed Code | DeCode](https://www.youtube.com/watch?v=rHV\_QWzZxRQ)
 * [Build a TikTok Clone in React Native and AWS Backend \[Tutorial for Beginners\]](https://youtu.be/7okW52MQgSE)
-* [🔴 Let's Build the Netflix App in React Native & AWS Amplify (Tutorial for Beginners)](https://youtu.be/CNaLOa-6X7U)
+* [🔴 Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API](https://www.youtube.com/watch?v=jmvbhuJXFow\&t=770s)
+* [Build an Instagram Clone with React Native, Firebase Firestore, Redux, Expo - Full Course](https://www.youtube.com/watch?v=1hPgQWbWmEk\&t=10942s)
+* [🔴](https://youtu.be/CNaLOa-6X7U)[ Let's Build the Netflix App in React Native & AWS Amplify (Tutorial for Beginners)](https://youtu.be/CNaLOa-6X7U)
+* [🔴 React Native E-learning App UI (Part 1) - Speed Code | DeCode](https://www.youtube.com/watch?v=u2edJaGtaI0\&t=203s)
+* [LCRN EP8 - Food Delivery App - React Native UI](https://www.youtube.com/watch?v=diUDjNwZ8Lg)
 
 </details>
 
