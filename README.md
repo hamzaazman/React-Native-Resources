@@ -55,6 +55,8 @@
 * [https://ysfzrn.gitbook.io/react-native-turkce/](https://ysfzrn.gitbook.io/react-native-turkce/)
 * [https://blog.logrocket.com/top-react-native-tab-navigation-components/](https://blog.logrocket.com/top-react-native-tab-navigation-components/)
 * [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.dev/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
+* [React Native Firebase – Login and User Registration Tutorial](https://www.positronx.io/react-native-firebase-login-and-user-registration-tutorial/)
+* [How to manage authentication flows in React Native with react-navigation v5 and Firebase](https://heartbeat.comet.ml/how-to-manage-authentication-flows-in-react-native-with-react-navigation-v5-and-firebase-860f57ae20d3)
 
 </details>
 
